@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Look Ma! I'm on the Internet"
+date:   2019-06-04 16:40:10 +1000
+categories: jekyll
+---
+The obligatory first self post. My work can be found [here][found-here].
+
+[found-here]: https://clarencewee.design
